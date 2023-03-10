@@ -1,0 +1,1 @@
+Scenario.endTime = 43200Group.movementModel = RandomWaypointScenario.name = CrowdGroup.movementModel = CrowdMovementScenario.nrofHostGroups = 1Group.nrofHosts = 500Event1.Hosts = 0,499MovementModel.worldSize = 1000,1000Report.nrofReports = 0
